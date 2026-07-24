@@ -22,6 +22,9 @@ La aplicación se ejecuta como una web app y luego se empaqueta para Android med
 - RPG Maker MV / RPG Maker compatible project structure
 - Android platform support
 
+<img width="1551" height="873" alt="image" src="https://github.com/user-attachments/assets/1fa1f491-66f4-4b64-81f0-f56c8a3ede8f" />
+
+
 ## Estructura principal
 
 ```text
