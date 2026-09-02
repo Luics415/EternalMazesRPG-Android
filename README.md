@@ -93,6 +93,14 @@ npx cordova platform remove android
 npx cordova platform add android
 ```
 
+## Capturas de Pantalla
+
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/14e85b2c-ec13-4a42-aea2-83e6ad146103" />
+
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/ad78f784-8284-4e2e-9505-355e36811928" />
+
+
+
 ## Nota
 
 El proyecto ya está configurado para Android en el archivo `package.json` y `config.xml`, por lo que la compilación se basa en la plataforma Android habilitada por Cordova.
